@@ -98,4 +98,10 @@ Enhanced layout and design personalization
 
 Contributions in the form of enhancements, bug fixes, or new features are welcome!
 
+License
+This project is open for personal, educational, and internal business use. Please attribute accordingly if shared.
+
+Contact
+For questions or support, please reach out with your queries.
+
 Thank you for exploring the ElectroniTech Manufacturing Co. Dashboard project!
