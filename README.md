@@ -1,7 +1,7 @@
 # ElectroniTech Manufacturing Co. Dashboard
 Welcome to the ElectroniTech Manufacturing Co. Dashboard project! This Excel dashboard provides comprehensive insights into the financial, shipment, and customer operations of ElectroniTech, enabling business stakeholders to make informed decisions through interactive visualizations and data summaries.
 
-Project Overview
+### Project Overview
 This dashboard consolidates key metrics and detailed analyses sourced from ElectroniTech’s operational data to monitor:
 
 Payments and Financial Summary
@@ -14,7 +14,7 @@ Delivery Status and Efficiency
 
 The dashboard is designed for easy interaction and dynamic filtering, facilitating quick drill-downs across multiple business dimensions.
 
-Features
+### Features
 Total Payments and Outstanding Amounts
 Displays the total payments received alongside outstanding payment amounts to monitor cash flow and credit health.
 
@@ -58,14 +58,14 @@ Individual Customer Names
 
 Customizable Date Range with Timeline slicer
 
-Technologies and Tools
+### Technologies and Tools
 Microsoft Excel (PivotTables, PivotCharts)
 
 Slicers and Timeline Controls for interactivity
 
 Clean and consistent color schemes for better readability.
 
-Usage Instructions
+### Usage Instructions
 Open the ElectroniTech Manufacturing Co. Excel file.
 
 Use the slicers on the left and timeline controls on the right to filter data dynamically.
@@ -76,7 +76,7 @@ Drill down into specific customer, shipment types, or payment modes to analyze b
 
 Refresh PivotTables as necessary when new data is added.
 
-Benefits
+### Benefits
 Rapid business performance monitoring
 
 Real-time interactive data analysis
@@ -85,7 +85,7 @@ Identifies payment collection issues and shipment inefficiencies
 
 Helps target customer service and operational improvements
 
-Contributing
+### Contributing
 This dashboard is designed as a template and can be enhanced with:
 
 Additional KPIs and visualizations
@@ -98,10 +98,10 @@ Enhanced layout and design personalization
 
 Contributions in the form of enhancements, bug fixes, or new features are welcome!
 
-License
+### License
 This project is open for personal, educational, and internal business use. Please attribute accordingly if shared.
 
-Contact
+### Contact
 For questions or support, please reach out with your queries.
 
 Thank you for exploring the ElectroniTech Manufacturing Co. Dashboard project!
